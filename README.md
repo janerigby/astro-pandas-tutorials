@@ -7,4 +7,6 @@ Tutorial #2, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/m
 
 Tutorial #3, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/master/Filter%203D-HST%20catalog%20and%20plot%20R_e%2C%20sersic%20index.ipynb">Filter 3D-HST catalog and plot Re, sersic index</a>, is the first tutorial tha really shows the power of Pandas.  This tutorial reads in two large catalogs, and use the parameters in one catalog to filter the second catalog.  It then makes groovy plots.
 
-Tutoral #4 is *your chance to contribute!*
+Tutoral #4, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/master/Plot%20directly%20from%20Pandas.ipynb">Plot directly from Pandas</a>, shows how you can directly plot a Pandas DataFrame, in a matplotlib-compatible way.  May be faster than pyplot.plot() for quick-loock visualization.
+
+Tutoral #5 is *your chance to contribute!*
