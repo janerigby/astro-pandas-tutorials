@@ -13,3 +13,13 @@ Tutorial #4, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/m
 Tutoral #5, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/master/Plot%20directly%20from%20Pandas.ipynb">Plot directly from Pandas</a>, shows how you can directly plot a Pandas DataFrame, in a matplotlib-compatible way.  May be faster than pyplot.plot() for quick-loock visualization.
 
 Tutoral #6 is *your chance to contribute!*
+
+Other resources:
+The O'Reilly book <a href="http://shop.oreilly.com/product/0636920023784.do">
+Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython</a>, by Wes McKinney 
+(the creator of Pandas), is getting rave reviews.  
+
+Here's <a href="https://github.com/BrownDwarf/ApJdataFrames">a trove of Brown Dwarf examples 
+using Pandas</a>.
+
+
