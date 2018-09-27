@@ -1,6 +1,8 @@
 # astro-pandas-tutorials
 These are tutorials on how to use Pandas Data Frames for professional astronomy.  Import common types of astronomical data, filter, sort, and plot.  Contributions welcome!  Started by <a href="http://www.janerigby.net/">Jane Rigby</a>, Oct. 2016.
 
+Tutorial #1, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/master/Why%20Pandas.ipynb">Why Pandas?</a>, shows some of the power of Pandas for dealing with astronomical data.
+
 Tutorial #1, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/master/Get%20data%20into%20pandas.ipynb">Get data into Pandas</a>, does just that -- it shows examples of importing ascii tables, machine-readable tables from the Astrophysical Journal, binary fits tables, and csv tables.  It relies on astropy.Tables to read the astronomy-specific formats, and then convert via <a href="http://docs.astropy.org/en/stable/table/pandas.html">Tables.table.to_pandas()</a>.
 
 Tutorial #2, <a href="https://github.com/janerigby/astro-pandas-tutorials/blob/master/Basic%20filtering%2C%20visualization%2C%20and%20math.ipynb">
